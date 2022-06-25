@@ -1,0 +1,22 @@
+.addProduct {
+    background-color: #c1bdba;
+}
+
+h1 {
+color: red;
+}
+
+li  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+    width: 500px;
+    border: solid 1px black;
+    color: red;
+}
+
+li p {
+    color: blue;
+    justify-content: center ;
+}
